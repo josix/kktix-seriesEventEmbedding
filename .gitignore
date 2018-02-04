@@ -1,0 +1,5 @@
+__pycache__/
+data/
+jieba-zh_TW/
+jieba/
+*.data
